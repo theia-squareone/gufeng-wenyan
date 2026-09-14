@@ -629,7 +629,7 @@ Author: Theia Ivy Aletheia
 The original cycle was created in 2006.
 This digital edition was prepared and published in 2026.
 
-Copyright © 2006–2026 Theia Square One.
+Copyright © 2006–2026 Theia Ivy Aletheia.
 
 The work is licensed under CC BY-NC-ND 4.0 International.
 See [LICENSE.md](LICENSE.md).
@@ -1196,7 +1196,7 @@ Author: Theia Ivy Aletheia
 The original cycle was created in 2006.
 This digital edition was prepared and published in 2026.
 
-Copyright © 2006–2026 Theia Square One.
+Copyright © 2006–2026 Theia Ivy Aletheia.
 
 The work is licensed under CC BY-NC-ND 4.0 International.
 See [LICENSE.md](LICENSE.md).
@@ -1210,7 +1210,7 @@ See [LICENSE.md](LICENSE.md).
 原始组诗创作于 2006 年。
 本数字版于 2026 年整理并发布。
 
-版权所有 © 2006–2026 Theia Square One。
+版权所有 © 2006–2026 Theia Ivy Aletheia。
 
 本作品采用 CC BY-NC-ND 4.0 国际许可协议。
 详见 [LICENSE.md](LICENSE.md)。
