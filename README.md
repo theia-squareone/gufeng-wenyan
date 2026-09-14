@@ -47,12 +47,12 @@ The heart of a woman holds in reverence the man who himself creates his own mean
 
 Nǚ xīn suǒ jìng zhě
 
-· 女 (nǚ) — woman. An ancient pictograph: a seated figure with crossed arms. Not “female” as a mere biological category, but the one within; the one who knows.
-· 心 (xīn) — heart. Not merely an organ, but the center of feeling, will, and consciousness. In Chinese tradition, the soul.
-· 女心 — a woman’s heart. Not “female heart” as something weak, but depth that sees.
-· 所 (suǒ) — a particle that turns a verb into “that which...” It nominalizes the action. “That which...” — a construction typical of wenyan.
-· 敬 (jìng) — to revere, to hold in awe. Not “respect” in the sense of politeness, but awe: before a shrine, before a master, before one greater than oneself.
-· 者 (zhě) — the one who; a nominalizer. Completes the construction: “That which a woman’s heart reveres is the one who...”
+- 女 (nǚ) — woman. An ancient pictograph: a seated figure with crossed arms. Not “female” as a mere biological category, but the one within; the one who knows.
+- 心 (xīn) — heart. Not merely an organ, but the center of feeling, will, and consciousness. In Chinese tradition, the soul.
+- 女心 — a woman’s heart. Not “female heart” as something weak, but depth that sees.
+- 所 (suǒ) — a particle that turns a verb into “that which...” It nominalizes the action. “That which...” — a construction typical of wenyan.
+- 敬 (jìng) — to revere, to hold in awe. Not “respect” in the sense of politeness, but awe: before a shrine, before a master, before one greater than oneself.
+- 者 (zhě) — the one who; a nominalizer. Completes the construction: “That which a woman’s heart reveres is the one who...”
 
 Together: “That which a woman’s heart reveres is...”
 
@@ -62,12 +62,12 @@ Together: “That which a woman’s heart reveres is...”
 
 Zì zào yì zhī nán
 
-· 自 (zì) — self; by oneself. Not automatically, but by one’s own hands, one’s own choice, one’s own will.
-· 造 (zào) — to create. Not “to make” in the sense of producing, but to create: as an artist, as a demiurge, as one who brings something new.
-· 义 (yì) — meaning. But not “definition.” It is duty, justice, path. In Confucianism, 义 is right action — what a person chooses as their own law.
-· 自造义 — creates one’s own meaning. Not finding it ready-made, not receiving it from others, but creating it out of one’s own emptiness, out of one’s own path.
-· 之 (zhī) — possessive particle: “...who...” Links the modifier to the noun.
-· 男 (nán) — man. Not “male” as an animal, but the one in the field; the one who works, who bears, who creates.
+- 自 (zì) — self; by oneself. Not automatically, but by one’s own hands, one’s own choice, one’s own will.
+- 造 (zào) — to create. Not “to make” in the sense of producing, but to create: as an artist, as a demiurge, as one who brings something new.
+- 义 (yì) — meaning. But not “definition.” It is duty, justice, path. In Confucianism, 义 is right action — what a person chooses as their own law.
+- 自造义 — creates one’s own meaning. Not finding it ready-made, not receiving it from others, but creating it out of one’s own emptiness, out of one’s own path.
+- 之 (zhī) — possessive particle: “...who...” Links the modifier to the noun.
+- 男 (nán) — man. Not “male” as an animal, but the one in the field; the one who works, who bears, who creates.
 
 Together: “...the man who himself creates his own meaning.”
 
@@ -87,13 +87,13 @@ Mind: cruel and impatient.
 
 Xīn, yōu ài tòng, xǐ shù dài.
 
-· 心 (xīn) — heart. Not only an organ, but the center of feeling, will, consciousness. In Chinese tradition — the soul.
-· 忧 (yōu) — to worry, to grieve, to be anxious.
-· 爱 (ài) — to love.
-· 痛 (tòng) — to ache, to feel pain.
-· 喜 (xǐ) — to rejoice.
-· 恕 (shù) — to forgive.
-· 待 (dài) — to wait.
+- 心 (xīn) — heart. Not only an organ, but the center of feeling, will, consciousness. In Chinese tradition — the soul.
+- 忧 (yōu) — to worry, to grieve, to be anxious.
+- 爱 (ài) — to love.
+- 痛 (tòng) — to ache, to feel pain.
+- 喜 (xǐ) — to rejoice.
+- 恕 (shù) — to forgive.
+- 待 (dài) — to wait.
 
 Together: “Heart: worries, loves, aches; rejoices, forgives, waits.”
 
@@ -103,10 +103,10 @@ Together: “Heart: worries, loves, aches; rejoices, forgives, waits.”
 
 Zhì, kù qiě jí.
 
-· 智 (zhì) — mind, intellect, reason.
-· 酷 (kù) — cruel.
-· 且 (qiě) — and, moreover.
-· 急 (jí) — impatient, hurrying.
+- 智 (zhì) — mind, intellect, reason.
+- 酷 (kù) — cruel.
+- 且 (qiě) — and, moreover.
+- 急 (jí) — impatient, hurrying.
 
 Together: “Mind: cruel and impatient.”
 
@@ -126,12 +126,12 @@ When they love, they become one.
 
 Nán jiē zài zhì, nǚ jiē zài xīn.
 
-· 男 (nán) — man. Not “male” as an animal, but the one in the field; the one who works, who bears.
-· 皆 (jiē) — all, wholly.
-· 在 (zài) — to be in, to reside in.
-· 智 (zhì) — mind, reason, wisdom. Not mere intellect, but the ability to discern, understand, act rightly. In Confucianism, 智 is one of the five constant virtues.
-· 女 (nǚ) — woman. The one within; the one who knows.
-· 心 (xīn) — heart. Not “organ,” but the center of feeling, will, consciousness. In Chinese tradition — the soul.
+- 男 (nán) — man. Not “male” as an animal, but the one in the field; the one who works, who bears.
+- 皆 (jiē) — all, wholly.
+- 在 (zài) — to be in, to reside in.
+- 智 (zhì) — mind, reason, wisdom. Not mere intellect, but the ability to discern, understand, act rightly. In Confucianism, 智 is one of the five constant virtues.
+- 女 (nǚ) — woman. The one within; the one who knows.
+- 心 (xīn) — heart. Not “organ,” but the center of feeling, will, consciousness. In Chinese tradition — the soul.
 
 Together: “Man is all in mind, woman all in heart.”
 
@@ -141,10 +141,10 @@ Together: “Man is all in mind, woman all in heart.”
 
 Xiāng ài nǎi yī.
 
-· 相 (xiāng) — mutually, each other.
-· 爱 (ài) — to love.
-· 乃 (nǎi) — then, only then, precisely.
-· 一 (yī) — one, unified, whole.
+- 相 (xiāng) — mutually, each other.
+- 爱 (ài) — to love.
+- 乃 (nǎi) — then, only then, precisely.
+- 一 (yī) — one, unified, whole.
 
 Together: “When they love mutually — then they are one.”
 
@@ -164,10 +164,10 @@ Night thanks for coming to take it.
 
 Chén xiè zhì jìng,
 
-· 晨 (chén) — morning. Not merely a time of day, but beginning, awakening, the start of a cycle.
-· 谢 (xiè) — to thank. Not formal “thanks,” but gratitude from the heart.
-· 致 (zhì) — to bring, to cause, to bestow.
-· 静 (jìng) — stillness, quiet, calm. Not merely absence of noise, but a state of deep inner equilibrium.
+- 晨 (chén) — morning. Not merely a time of day, but beginning, awakening, the start of a cycle.
+- 谢 (xiè) — to thank. Not formal “thanks,” but gratitude from the heart.
+- 致 (zhì) — to bring, to cause, to bestow.
+- 静 (jìng) — stillness, quiet, calm. Not merely absence of noise, but a state of deep inner equilibrium.
 
 Together: “Morning thanks for the stillness it brings.”
 
@@ -177,10 +177,10 @@ Together: “Morning thanks for the stillness it brings.”
 
 Yè xiè suí qǔ.
 
-· 夜 (yè) — night. Not merely a time of day, but darkness, cover, the time of mystery and rest.
-· 谢 (xiè) — to thank.
-· 随 (suí) — to follow, to come after.
-· 取 (qǔ) — to take, to receive.
+- 夜 (yè) — night. Not merely a time of day, but darkness, cover, the time of mystery and rest.
+- 谢 (xiè) — to thank.
+- 随 (suí) — to follow, to come after.
+- 取 (qǔ) — to take, to receive.
 
 Together: “Night thanks for coming to take it.”
 
@@ -201,9 +201,9 @@ Night came and released me.
 
 Rì qín wǒ,
 
-· 日 (rì) — day; sun. Here personified as a living being.
-· 擒 (qín) — to catch, seize, detain. Not merely “take,” but to capture.
-· 我 (wǒ) — me.
+- 日 (rì) — day; sun. Here personified as a living being.
+- 擒 (qín) — to catch, seize, detain. Not merely “take,” but to capture.
+- 我 (wǒ) — me.
 
 Together: “Day caught me.”
 
@@ -213,10 +213,10 @@ Together: “Day caught me.”
 
 Rú dié zài zhǎng.
 
-· 如 (rú) — like, as.
-· 蝶 (dié) — butterfly. A symbol of fragility, freedom, evanescence.
-· 在 (zài) — in, at.
-· 掌 (zhǎng) — palm of the hand.
+- 如 (rú) — like, as.
+- 蝶 (dié) — butterfly. A symbol of fragility, freedom, evanescence.
+- 在 (zài) — in, at.
+- 掌 (zhǎng) — palm of the hand.
 
 Together: “Like a butterfly in the palm.”
 
@@ -226,10 +226,10 @@ Together: “Like a butterfly in the palm.”
 
 Yè zhì ér shì.
 
-· 夜 (yè) — night.
-· 至 (zhì) — to arrive, to come.
-· 而 (ér) — and, then; a connective.
-· 释 (shì) — to release, to set free.
+- 夜 (yè) — night.
+- 至 (zhì) — to arrive, to come.
+- 而 (ér) — and, then; a connective.
+- 释 (shì) — to release, to set free.
 
 Together: “Night came and released me.”
 
@@ -253,11 +253,11 @@ They are different.
 
 Wú wéi ài yī nǚ,
 
-· 吾 (wú) — I. An archaic, poetic “I.” Not the everyday pronoun, but the soul standing before eternity.
-· 唯 (wéi) — only, solely.
-· 爱 (ài) — to love. Not “to like,” not “to desire,” but to love with all one’s heart, all one’s depth.
-· 一 (yī) — one.
-· 女 (nǚ) — woman. The one within; the one who knows.
+- 吾 (wú) — I. An archaic, poetic “I.” Not the everyday pronoun, but the soul standing before eternity.
+- 唯 (wéi) — only, solely.
+- 爱 (ài) — to love. Not “to like,” not “to desire,” but to love with all one’s heart, all one’s depth.
+- 一 (yī) — one.
+- 女 (nǚ) — woman. The one within; the one who knows.
 
 Together: “I loved only one woman.”
 
@@ -267,10 +267,10 @@ Together: “I loved only one woman.”
 
 Shí yì wéi yī.
 
-· 识 (shí) — to know, to perceive. Not superficial recognition, but deep knowing, to the bottom. In ancient texts, it means both spiritual and bodily knowing.
-· 亦 (yì) — also, too.
-· 唯 (wéi) — only.
-· 一 (yī) — one.
+- 识 (shí) — to know, to perceive. Not superficial recognition, but deep knowing, to the bottom. In ancient texts, it means both spiritual and bodily knowing.
+- 亦 (yì) — also, too.
+- 唯 (wéi) — only.
+- 一 (yī) — one.
 
 Together: “Knew also only one.”
 
@@ -280,11 +280,11 @@ Together: “Knew also only one.”
 
 Cǐ nǎi yī nǚ hū?
 
-· 此 (cǐ) — this.
-· 乃 (nǎi) — is, is indeed.
-· 一 (yī) — one.
-· 女 (nǚ) — woman.
-· 乎 (hū) — interrogative particle. Not merely a question, but an invitation to reflection.
+- 此 (cǐ) — this.
+- 乃 (nǎi) — is, is indeed.
+- 一 (yī) — one.
+- 女 (nǚ) — woman.
+- 乎 (hū) — interrogative particle. Not merely a question, but an invitation to reflection.
 
 Together: “Is this one woman?”
 
@@ -294,8 +294,8 @@ Together: “Is this one woman?”
 
 Yì yǐ.
 
-· 异 (yì) — different, other, not the same.
-· 矣 (yǐ) — final particle. Puts a full stop. It cannot be changed. It is a fact.
+- 异 (yì) — different, other, not the same.
+- 矣 (yǐ) — final particle. Puts a full stop. It cannot be changed. It is a fact.
 
 Together: “They are different.”
 
@@ -319,8 +319,8 @@ from the back of the lips.
 
 Guān yǐng,
 
-· 观 (guān) — to watch, to contemplate. Not merely “to look,” but to gaze deeply, to observe, to penetrate with sight.
-· 影 (yǐng) — reflection, shadow, image. Not only a mirror reflection, but the shadow of the soul, a ghostly trace.
+- 观 (guān) — to watch, to contemplate. Not merely “to look,” but to gaze deeply, to observe, to penetrate with sight.
+- 影 (yǐng) — reflection, shadow, image. Not only a mirror reflection, but the shadow of the soul, a ghostly trace.
 
 Together: “Watching the reflection.”
 
@@ -330,7 +330,7 @@ Together: “Watching the reflection.”
 
 Gǎn...
 
-· 感 (gǎn) — to feel, to sense. Not only emotion, but bodily sensation, inner response.
+- 感 (gǎn) — to feel, to sense. Not only emotion, but bodily sensation, inner response.
 
 Together: “Feeling...”
 
@@ -340,9 +340,9 @@ Together: “Feeling...”
 
 Dī yǔ...
 
-· 低 (dī) — low, quiet.
-· 语 (yǔ) — speech, words.
-· 低语 — whisper. Not merely quiet speech, but an intimate sound meant for one alone.
+- 低 (dī) — low, quiet.
+- 语 (yǔ) — speech, words.
+- 低语 — whisper. Not merely quiet speech, but an intimate sound meant for one alone.
 
 Together: “Whispering...”
 
@@ -352,10 +352,10 @@ Together: “Whispering...”
 
 Zì chún bèi.
 
-· 自 (zì) — from, out of.
-· 唇 (chún) — lips.
-· 背 (bèi) — back side, reverse, behind.
-· 唇背 — the back of the lips. The side not seen in the mirror. The side where the whisper is born.
+- 自 (zì) — from, out of.
+- 唇 (chún) — lips.
+- 背 (bèi) — back side, reverse, behind.
+- 唇背 — the back of the lips. The side not seen in the mirror. The side where the whisper is born.
 
 Together: “From the back of the lips.”
 
@@ -379,8 +379,8 @@ already read.
 
 Yán wēi,
 
-· 言 (yán) — to speak, speech, word. Not merely “to make a sound,” but to speak meaningfully, to address.
-· 微 (wēi) — faint, slight, subtle. Not “quiet” in volume, but “barely perceptible,” on the edge of hearing.
+- 言 (yán) — to speak, speech, word. Not merely “to make a sound,” but to speak meaningfully, to address.
+- 微 (wēi) — faint, slight, subtle. Not “quiet” in volume, but “barely perceptible,” on the edge of hearing.
 
 Together: “Speaking faintly.”
 
@@ -390,8 +390,8 @@ Together: “Speaking faintly.”
 
 Nǎi fā.
 
-· 乃 (nǎi) — then, just, precisely. Indicates the moment of transition, the beginning.
-· 发 (fā) — to emit, to utter, to begin. Not “to say,” but “to emit a sound,” “to release outward.”
+- 乃 (nǎi) — then, just, precisely. Indicates the moment of transition, the beginning.
+- 发 (fā) — to emit, to utter, to begin. Not “to say,” but “to emit a sound,” “to release outward.”
 
 Together: “Then uttered.”
 
@@ -401,9 +401,9 @@ Together: “Then uttered.”
 
 Xī yǔ,
 
-· 息 (xī) — breath. Not merely air, but life, spirit, warmth.
-· 语 (yǔ) — words, speech.
-· 息语 — breath-words. Not a whisper, not a shout, but speech in which breath itself is heard. Words spoken on the exhale.
+- 息 (xī) — breath. Not merely air, but life, spirit, warmth.
+- 语 (yǔ) — words, speech.
+- 息语 — breath-words. Not a whisper, not a shout, but speech in which breath itself is heard. Words spoken on the exhale.
 
 Together: “Breath-words.”
 
@@ -413,8 +413,8 @@ Together: “Breath-words.”
 
 Yǐ dú.
 
-· 已 (yǐ) — already. Completion, an accomplished fact.
-· 读 (dú) — to read. Not merely “to see text,” but to read consciously, entering the meaning.
+- 已 (yǐ) — already. Completion, an accomplished fact.
+- 读 (dú) — to read. Not merely “to see text,” but to read consciously, entering the meaning.
 
 Together: “Already read.”
 
@@ -436,10 +436,10 @@ they became one.
 
 Rǔ dá wú yán.
 
-· 汝 (rǔ) — you, your. An archaic, poetic “you.” Not merely a pronoun, but an address to one who is close.
-· 答 (dá) — answer. Not merely a “reply,” but a response, an echo, a return.
-· 吾 (wú) — I, my. An archaic “I.” Not the ego, but the soul standing before another soul.
-· 言 (yán) — word, speech. Not sound, but meaning placed into sound.
+- 汝 (rǔ) — you, your. An archaic, poetic “you.” Not merely a pronoun, but an address to one who is close.
+- 答 (dá) — answer. Not merely a “reply,” but a response, an echo, a return.
+- 吾 (wú) — I, my. An archaic “I.” Not the ego, but the soul standing before another soul.
+- 言 (yán) — word, speech. Not sound, but meaning placed into sound.
 
 Together: “Your answer—my words.”
 
@@ -449,10 +449,10 @@ Together: “Your answer—my words.”
 
 Fēn zhī, nǎi yī.
 
-· 分 (fēn) — to divide, to separate.
-· 之 (zhī) — them, it (pronoun).
-· 乃 (nǎi) — then, precisely, indeed.
-· 一 (yī) — one, unified, whole.
+- 分 (fēn) — to divide, to separate.
+- 之 (zhī) — them, it (pronoun).
+- 乃 (nǎi) — then, precisely, indeed.
+- 一 (yī) — one, unified, whole.
 
 Together: “Divided—then became one.”
 
@@ -476,10 +476,10 @@ they sentence and grant—lips.
 
 Chún chàn yù yín,
 
-· 唇 (chún) — lips. Not merely a body part, but the border between inner and outer, between silence and speech.
-· 颤 (chàn) — to tremble. Not from cold, but from tension, from restrained feeling.
-· 欲 (yù) — ready, desiring, about to.
-· 吟 (yín) — to moan, to utter a sound. Not merely “to speak,” but a sound coming from the depths, from the body.
+- 唇 (chún) — lips. Not merely a body part, but the border between inner and outer, between silence and speech.
+- 颤 (chàn) — to tremble. Not from cold, but from tension, from restrained feeling.
+- 欲 (yù) — ready, desiring, about to.
+- 吟 (yín) — to moan, to utter a sound. Not merely “to speak,” but a sound coming from the depths, from the body.
 
 Together: “Lips tremble, ready to moan.”
 
@@ -489,10 +489,10 @@ Together: “Lips tremble, ready to moan.”
 
 Chún mò kǒng jīng.
 
-· 唇 (chún) — lips.
-· 默 (mò) — to be silent. Not merely “not speaking,” but to keep silence, to guard it.
-· 恐 (kǒng) — to fear.
-· 惊 (jīng) — to frighten, to startle, to disturb.
+- 唇 (chún) — lips.
+- 默 (mò) — to be silent. Not merely “not speaking,” but to keep silence, to guard it.
+- 恐 (kǒng) — to fear.
+- 惊 (jīng) — to frighten, to startle, to disturb.
 
 Together: “Lips stay silent—afraid to startle.”
 
@@ -502,10 +502,10 @@ Together: “Lips stay silent—afraid to startle.”
 
 Méi yú rǔ wú,
 
-· 媒 (méi) — mediator, matchmaker, connecting link.
-· 于 (yú) — between, in, for.
-· 汝 (rǔ) — you. Archaic, poetic.
-· 吾 (wú) — I. Archaic, poetic.
+- 媒 (méi) — mediator, matchmaker, connecting link.
+- 于 (yú) — between, in, for.
+- 汝 (rǔ) — you. Archaic, poetic.
+- 吾 (wú) — I. Archaic, poetic.
 
 Together: “Mediators between you and me.”
 
@@ -515,10 +515,10 @@ Together: “Mediators between you and me.”
 
 Pàn qiě cì chún.
 
-· 判 (pàn) — to sentence, to judge, to decide. Not merely “to speak,” but to pronounce a verdict.
-· 且 (qiě) — and, moreover.
-· 赐 (cì) — to grant, to bestow. Not “to give,” but to give from above, out of generosity.
-· 唇 (chún) — lips.
+- 判 (pàn) — to sentence, to judge, to decide. Not merely “to speak,” but to pronounce a verdict.
+- 且 (qiě) — and, moreover.
+- 赐 (cì) — to grant, to bestow. Not “to give,” but to give from above, out of generosity.
+- 唇 (chún) — lips.
 
 Together: “They sentence and grant—lips.”
 
@@ -540,10 +540,10 @@ but you.
 
 Hé móu yǐ qǐ,
 
-· 阖 (hé) — to close. Not merely “to lower the eyelids,” but to shut, to seal, as one closes the gates.
-· 眸 (móu) — eye, pupil. Not “organ of sight,” but the window of the soul, through which the inner looks.
-· 以 (yǐ) — in order to, for. Indicates purpose.
-· 启 (qǐ) — to open. Not “to fling open,” but to open slightly, to begin, to initiate.
+- 阖 (hé) — to close. Not merely “to lower the eyelids,” but to shut, to seal, as one closes the gates.
+- 眸 (móu) — eye, pupil. Not “organ of sight,” but the window of the soul, through which the inner looks.
+- 以 (yǐ) — in order to, for. Indicates purpose.
+- 启 (qǐ) — to open. Not “to fling open,” but to open slightly, to begin, to initiate.
 
 Together: “Closing my eyes in order to open.”
 
@@ -553,10 +553,10 @@ Together: “Closing my eyes in order to open.”
 
 Wú suǒ jiàn,
 
-· 无 (wú) — no, not have.
-· 所 (suǒ) — that which; particle turning a verb into “that which...”
-· 见 (jiàn) — to see.
-· 无所见 — “there is nothing that I see”; “I see nothing.” A construction typical of wenyan.
+- 无 (wú) — no, not have.
+- 所 (suǒ) — that which; particle turning a verb into “that which...”
+- 见 (jiàn) — to see.
+- 无所见 — “there is nothing that I see”; “I see nothing.” A construction typical of wenyan.
 
 Together: “Seeing nothing.”
 
@@ -566,8 +566,8 @@ Together: “Seeing nothing.”
 
 Wéi rǔ.
 
-· 唯 (wéi) — only, solely.
-· 汝 (rǔ) — you. Archaic, poetic. Not “you” formal, but “you” close, dear.
+- 唯 (wéi) — only, solely.
+- 汝 (rǔ) — you. Archaic, poetic. Not “you” formal, but “you” close, dear.
 
 Together: “Only you.”
 
@@ -589,10 +589,10 @@ in ink lines.
 
 Qíng zhì yán xíng,
 
-· 情 (qíng) — feeling, emotion, state of the soul. Not merely “mood,” but a deep experience.
-· 置 (zhì) — to place, to put, to set. An action with effort, with intention.
-· 言 (yán) — word, speech.
-· 形 (xíng) — form, outline, body. That which gives a visible boundary.
+- 情 (qíng) — feeling, emotion, state of the soul. Not merely “mood,” but a deep experience.
+- 置 (zhì) — to place, to put, to set. An action with effort, with intention.
+- 言 (yán) — word, speech.
+- 形 (xíng) — form, outline, body. That which gives a visible boundary.
 
 Together: “Feelings placed into forms of words.”
 
@@ -602,9 +602,9 @@ Together: “Feelings placed into forms of words.”
 
 Níng, qǔ, chén,
 
-· 凝 (níng) — to congeal, to solidify, to freeze. Not merely “to stop,” but to pass from a living, flowing state into a fixed one.
-· 取 (qǔ) — to take, to draw out, to extract.
-· 陈 (chén) — to lay out, to display, to present. Not merely “to put down,” but to show, to make visible.
+- 凝 (níng) — to congeal, to solidify, to freeze. Not merely “to stop,” but to pass from a living, flowing state into a fixed one.
+- 取 (qǔ) — to take, to draw out, to extract.
+- 陈 (chén) — to lay out, to display, to present. Not merely “to put down,” but to show, to make visible.
 
 Together: “Congealed, taken, laid out.”
 
@@ -614,12 +614,11 @@ Together: “Congealed, taken, laid out.”
 
 Mò xíng.
 
-· 墨 (mò) — black ink; ink. A symbol of writing, of the sign, of the trace.
-· 行 (xíng) — line, row; also “to go, to move.” Here—a line as a trace of movement.
+- 墨 (mò) — black ink; ink. A symbol of writing, of the sign, of the trace.
+- 行 (xíng) — line, row; also “to go, to move.” Here—a line as a trace of movement.
 
 Together: “In ink lines.”
 
----
 ---
 
 ## Authorship and license
@@ -633,7 +632,6 @@ Copyright © 2006–2026 Theia Ivy Aletheia.
 
 The work is licensed under CC BY-NC-ND 4.0 International.
 See [LICENSE.md](LICENSE.md).
----
 
 </details>
 
