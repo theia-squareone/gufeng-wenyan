@@ -11,7 +11,10 @@
 
 ## About this work
 
-I write gufeng in wenyan. All my life I have searched for the ideal form for my thoughts. Wenyan is its entire path: from sound to meaning, from form to essence.
+I write gufeng in wenyan.
+
+All my life I have searched for the ideal form for my thoughts.
+Wenyan is its entire path: from sound to meaning, from form to essence.
 
 This repository contains the Yán Mò cycle: the original wenyan verses, pinyin, English translation, detailed notes, and the Chinese version.
 
@@ -29,11 +32,6 @@ This repository contains the Yán Mò cycle: the original wenyan verses, pinyin,
 <summary><b>📜Yán Mò Cycle — Wenyan, Pinyin, Translation, Notes</b></summary>
 
 <br>
-
-I write gufeng in wenyan.
-
-All my life I have searched for the ideal form for my thoughts.
-Wenyan is its entire path: from sound to meaning, from form to essence.
 
 ---
 
